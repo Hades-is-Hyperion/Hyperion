@@ -1,0 +1,640 @@
+{
+  "Backtrack": {
+    "Enabled": true,
+    "Fake Latency": true,
+    "Ignore flash": true,
+    "Ignore smoke": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Alpha": 0.040462434,
+          "Color": "#3a3a3a",
+          "Material": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Desync": {
+      "Materials": [
+        {
+          "Alpha": 0.24277455,
+          "Color": "#ff0000"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 0.80924857,
+          "Color": "#00ceff",
+          "Enabled": true,
+          "Material": 6
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#ff0d0d",
+          "Enabled": true,
+          "Ignore-Z": true,
+          "Material": 11
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#00e8ff",
+          "Enabled": true,
+          "Material": 11
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Fake lag": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Disable in freezetime": true,
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff"
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Enabled": true,
+        "Head Box": {
+          "Alpha": 0.40462428,
+          "Color": "#ffffff",
+          "Enabled": true,
+          "Type": 1
+        },
+        "Health Bar": {
+          "Enabled": true
+        },
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 0.35260117,
+          "Color": "#ffffff",
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Fake angle": {
+    "Enabled": true,
+    "Lby mode": 1,
+    "Peek mode": 2
+  },
+  "Fakelag": {
+    "Enabled": true,
+    "Limit": 16,
+    "Mode": 2
+  },
+  "Glow": {
+    "Players": {
+      "Enemies": {
+        "All": {
+          "Alpha": 0.53757226,
+          "Color": "#81ff00",
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Legitbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Adblock": true,
+    "Animated clan tag": true,
+    "Anti AFK kick": true,
+    "Auto peek": {
+      "Enabled": true
+    },
+    "Auto peek key": {
+      "Key": "MOUSE5",
+      "Key mode": 2
+    },
+    "Auto pistol": true,
+    "Auto reload": true,
+    "Auto strafe": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Clan tag": "Better Osiris",
+    "Custom clan tag": true,
+    "Custom name": true,
+    "Disable HUD blur": true,
+    "Disable model occlusion": true,
+    "Fake duck": true,
+    "Fake duck key": {
+      "Key": "C",
+      "Key mode": 2
+    },
+    "Fast Stop": true,
+    "Fast duck": true,
+    "Fast plant": true,
+    "Fix tablet signal": true,
+    "Grenade predict": true,
+    "Grenade predict Damage": {
+      "Enabled": true
+    },
+    "Hit sound": 2,
+    "Hurt indicator": {
+      "Enabled": true
+    },
+    "Inventory Unlocker": true,
+    "Jump stats": {
+      "Show color on fail": true,
+      "Simplify naming": true
+    },
+    "Keybind list": {
+      "Enabled": true,
+      "Pos": {
+        "X": 7.0,
+        "Y": 555.0
+      }
+    },
+    "Keyboard display": {
+      "Color": {
+        "Alpha": 0.9884393,
+        "Color": "#fefffe"
+      },
+      "Enabled": true,
+      "Show key Tiles": true
+    },
+    "Kill message": true,
+    "Kill message string": "Killed by Better Osiris without resolver lol",
+    "Knifebot": true,
+    "Knifebot mode": 1,
+    "Logger": {
+      "Enabled": true
+    },
+    "Logger options": {
+      "Events": 15,
+      "Modes": 3
+    },
+    "Moonwalk": true,
+    "Name": "",
+    "Noscope crosshair": {
+      "Enabled": true
+    },
+    "Offscreen Enemies": {
+      "Enabled": true,
+      "Health Bar": {
+        "Enabled": true
+      }
+    },
+    "Opposite Hand Knife": true,
+    "Player list": {
+      "Armor": true,
+      "Rank": true,
+      "Steam ID": true,
+      "Wins": true
+    },
+    "Prepare revolver": true,
+    "Radar hack": true,
+    "Recoil crosshair": {
+      "Enabled": true
+    },
+    "Slowwalk": true,
+    "Slowwalk Amnt": 15,
+    "Slowwalk key": {
+      "Key": "LSHIFT",
+      "Key mode": 2
+    },
+    "Velocity": {
+      "Color": {
+        "Enabled": true
+      }
+    },
+    "Watermark": {
+      "Enabled": true,
+      "Pos": {
+        "X": 4.0,
+        "Y": 3.0
+      }
+    }
+  },
+  "Rage Anti aim": {
+    "At targets": true,
+    "Enabled": true,
+    "Jitter Range": 30,
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Pitch": 1,
+    "Yaw base": 2,
+    "Yaw modifier": 1
+  },
+  "Ragebot": [
+    {
+      "Aimlock": true,
+      "Auto scope": true,
+      "Auto shot": true,
+      "Auto stop": true,
+      "Disable backtrack if low fps": true,
+      "Disable multipoint if low fps": true,
+      "Enabled": true,
+      "Fov": 255.0,
+      "Hitboxes": 3,
+      "Hitchance": 64,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Min damage": 90,
+      "Multipoint": 90,
+      "Priority": 2,
+      "Scoped only": false,
+      "Silent": true,
+      "Visible only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 507,
+      "Enabled": true,
+      "Paint Kit": 568
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Tickbase": {
+    "Hideshots": {
+      "Key": "NONE",
+      "Key mode": 1
+    },
+    "Teleport": true
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Asus props": 50,
+    "Disable jiggle bones": true,
+    "Disable post-processing": true,
+    "FOV": 20,
+    "Flash reduction": 100,
+    "Footstep": {
+      "Enabled": {
+        "Enabled": true
+      }
+    },
+    "Hitbox on Hit": {
+      "Color": {
+        "Alpha": 0.040462434,
+        "Color": "#ffffff",
+        "Enabled": true
+      }
+    },
+    "Molotov Hull": {
+      "Enabled": true
+    },
+    "Molotov Polygon": {
+      "Enabled": true
+    },
+    "No 3d sky": true,
+    "No aim punch": true,
+    "No blur": true,
+    "No fog": true,
+    "No grass": true,
+    "No molotov": true,
+    "No scope overlay": true,
+    "No shadows": true,
+    "No sleeves": true,
+    "No smoke": true,
+    "No view bob": true,
+    "No view punch": true,
+    "Props": {
+      "Color": [
+        0.2815534,
+        0.28155056,
+        0.28155056
+      ],
+      "Enabled": true
+    },
+    "Sky": {
+      "Color": [
+        0.33980584,
+        0.33980244,
+        0.33980244
+      ],
+      "Enabled": true
+    },
+    "Skybox": 14,
+    "Smoke Hull": {
+      "Enabled": true
+    },
+    "Thirdperson": true,
+    "Thirdperson distance": 105,
+    "Thirdperson key": {
+      "Key": "MOUSE3",
+      "Key mode": 3
+    },
+    "Viewmodel": {
+      "Enabled": true,
+      "Fov": 19
+    },
+    "World": {
+      "Color": [
+        0.24271846,
+        0.24271603,
+        0.24271603
+      ],
+      "Enabled": true
+    },
+    "Zoom key": {
+      "Key": "NONE",
+      "Key mode": 0
+    }
+  }
+}
